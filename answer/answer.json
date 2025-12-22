@@ -1667,6 +1667,27 @@
     ],
     "type": 2
   },
+  "“套现”可能会涉嫌的罪名有哪些？": {
+    "optionList": [
+      {
+        "content": "信用卡诈骗罪",
+        "isCorrect": 1
+      },
+      {
+        "content": "骗取贷款罪",
+        "isCorrect": 1
+      },
+      {
+        "content": "非法经营罪",
+        "isCorrect": 1
+      },
+      {
+        "content": "侵占罪",
+        "isCorrect": 2
+      }
+    ],
+    "type": 2
+  },
   "“套现”是一种违法犯罪的行为。": {
     "optionList": [
       {
@@ -1782,6 +1803,27 @@
       },
       {
         "content": "帮信罪",
+        "isCorrect": 1
+      },
+      {
+        "content": "兼职诈骗",
+        "isCorrect": 2
+      },
+      {
+        "content": "刷单诈骗",
+        "isCorrect": 2
+      }
+    ],
+    "type": 2
+  },
+  "“学妹学弟，电话卡我来帮你们办，包在我身上！来，大家先来把相关信息填好给我。”——遇到这种情况如果轻信，后续可能遇到？": {
+    "optionList": [
+      {
+        "content": "电话卡诈骗",
+        "isCorrect": 1
+      },
+      {
+        "content": "涉嫌帮信罪",
         "isCorrect": 1
       },
       {
@@ -2054,6 +2096,23 @@
       {
         "content": "国务院公安部门",
         "isCorrect": 1
+      }
+    ],
+    "type": 2
+  },
+  "“文化”的意义启示我们的道理有？": {
+    "optionList": [
+      {
+        "content": "无论是学习什么“文化”都不单单是为了增加知识的储备，还是促进意识的改变",
+        "isCorrect": 1
+      },
+      {
+        "content": "只有“文”的意识发生了“化”的质变，“文化”才真正有了意义",
+        "isCorrect": 1
+      },
+      {
+        "content": "“文化”注重的是量的积累",
+        "isCorrect": 2
       }
     ],
     "type": 2
@@ -3745,6 +3804,10 @@
       {
         "content": "缺乏专业相关经验",
         "isCorrect": 1
+      },
+      {
+        "content": "缺乏专业相关学科知识",
+        "isCorrect": 1
       }
     ],
     "type": 1
@@ -5174,6 +5237,19 @@
       },
       {
         "content": "接触被患者污染的毛巾。",
+        "isCorrect": 2
+      }
+    ],
+    "type": 1
+  },
+  "下列选项中属于直接接触传播的是：": {
+    "optionList": [
+      {
+        "content": "接吻、性交",
+        "isCorrect": 1
+      },
+      {
+        "content": "接触被患者污染的毛巾",
         "isCorrect": 2
       }
     ],
@@ -6951,6 +7027,10 @@
       {
         "content": "不会。",
         "isCorrect": 1
+      },
+      {
+        "content": "会。",
+        "isCorrect": 2
       }
     ],
     "type": 1
@@ -10862,6 +10942,27 @@
     ],
     "type": 2
   },
+  "以下哪些法律法规涉及反邪教的内容？": {
+    "optionList": [
+      {
+        "content": "《邮政法》",
+        "isCorrect": 1
+      },
+      {
+        "content": "《电信条例》",
+        "isCorrect": 1
+      },
+      {
+        "content": "《中国共产党纪律处分条例》",
+        "isCorrect": 1
+      },
+      {
+        "content": "《道路交通法》",
+        "isCorrect": 2
+      }
+    ],
+    "type": 2
+  },
   "以下哪些物质，受热、摩擦、撞击等作用时，极易发生反应放出大量热？": {
     "optionList": [
       {
@@ -11004,6 +11105,10 @@
       },
       {
         "content": "安全通道门上锁",
+        "isCorrect": 1
+      },
+      {
+        "content": "学生宿舍楼安装无逃生出口的防盗窗网",
         "isCorrect": 1
       }
     ],
@@ -19288,6 +19393,23 @@
     ],
     "type": 2
   },
+  "喝醉酒的人，最好采用什么姿势睡觉?": {
+    "optionList": [
+      {
+        "content": "平躺",
+        "isCorrect": 2
+      },
+      {
+        "content": "侧卧",
+        "isCorrect": 1
+      },
+      {
+        "content": "趴着",
+        "isCorrect": 2
+      }
+    ],
+    "type": 1
+  },
   "因一时贪心而出卖国家机密的，应当（）。": {
     "optionList": [
       {
@@ -21124,6 +21246,14 @@
       },
       {
         "content": "捂住口鼻，抓紧时间，直接打开门逃跑。",
+        "isCorrect": 2
+      },
+      {
+        "content": "用手背轻触门板和把手，根据温度判断火势大小",
+        "isCorrect": 1
+      },
+      {
+        "content": "捂住口鼻，抓紧时间，直接打开门逃跑",
         "isCorrect": 2
       }
     ],
@@ -24045,6 +24175,19 @@
     ],
     "type": 1
   },
+  "如何远离“套现”行为？": {
+    "optionList": [
+      {
+        "content": "树立正确的消费观",
+        "isCorrect": 1
+      },
+      {
+        "content": "珍惜个人信用",
+        "isCorrect": 1
+      }
+    ],
+    "type": 2
+  },
   "如何远离套现行为？": {
     "optionList": [
       {
@@ -24779,6 +24922,10 @@
       {
         "content": "24小时之后",
         "isCorrect": 1
+      },
+      {
+        "content": "12小时之后",
+        "isCorrect": 2
       }
     ],
     "type": 1
@@ -30116,6 +30263,10 @@
       {
         "content": "两肘向前，护住双侧太阳穴",
         "isCorrect": 1
+      },
+      {
+        "content": "双手伸开保持平衡",
+        "isCorrect": 2
       }
     ],
     "type": 2
@@ -30223,6 +30374,19 @@
       {
         "content": "打电话报警",
         "isCorrect": 2
+      }
+    ],
+    "type": 1
+  },
+  "当扶梯坠梯时，能否从扶手跳出去？": {
+    "optionList": [
+      {
+        "content": "能",
+        "isCorrect": 2
+      },
+      {
+        "content": "不能",
+        "isCorrect": 1
       }
     ],
     "type": 1
@@ -39263,7 +39427,7 @@
         "isCorrect": 1
       },
       {
-        "content": "大型干粉灭火器（10kg 及以上）",
+        "content": "室外消火栓",
         "isCorrect": 2
       },
       {
@@ -39272,10 +39436,6 @@
       },
       {
         "content": "喷漆专用防毒面具",
-        "isCorrect": 2
-      },
-      {
-        "content": "室外消火栓",
         "isCorrect": 2
       }
     ],
@@ -45633,6 +45793,18 @@
       {
         "content": "50克以上",
         "isCorrect": 1
+      },
+      {
+        "content": "100克以上",
+        "isCorrect": 2
+      },
+      {
+        "content": "10克以上",
+        "isCorrect": 2
+      },
+      {
+        "content": "80克以上",
+        "isCorrect": 2
       }
     ],
     "type": 1
@@ -47042,6 +47214,23 @@
     ],
     "type": 1
   },
+  "遇到身边人喝醉酒了，应当怎么办？": {
+    "optionList": [
+      {
+        "content": "留意观察喝醉酒的人的状态",
+        "isCorrect": 1
+      },
+      {
+        "content": "将其安全送到家人身边",
+        "isCorrect": 1
+      },
+      {
+        "content": "主动照顾，并劝其他人不要再喝酒了",
+        "isCorrect": 1
+      }
+    ],
+    "type": 2
+  },
   "遇到重金求子的广告，正确的做法是？": {
     "optionList": [
       {
@@ -47276,6 +47465,27 @@
       }
     ],
     "type": 2
+  },
+  "邪教 “全能神” 属于以下哪一类邪教？": {
+    "optionList": [
+      {
+        "content": "冒用基督教名义的邪教",
+        "isCorrect": 1
+      },
+      {
+        "content": "以歪曲佛教道教教义为主的邪教",
+        "isCorrect": 2
+      },
+      {
+        "content": "以杂合气功手法歪曲宗教教义的邪教",
+        "isCorrect": 2
+      },
+      {
+        "content": "冒用伊斯兰教名义的邪教",
+        "isCorrect": 2
+      }
+    ],
+    "type": 1
   },
   "邪教会参照哪些宗教的教义去编造自己的教义呢？": {
     "optionList": [
